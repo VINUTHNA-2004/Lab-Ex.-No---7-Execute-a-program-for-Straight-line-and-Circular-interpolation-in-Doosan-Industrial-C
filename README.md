@@ -32,24 +32,23 @@ Parabolic and cubic interpolation are used by industries that manufacture parts 
 
 Manipulate the end effector as per the given configuration. Movement Should Initiate in P1 and progress till the end point. Travel path should be in sequence as stated below.
 
-Linear Interpolation
-
-
-
-
-
-
-
-
-Circular Interpolation
+![output](https://github.com/VINUTHNA-2004/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/7.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/7a.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/7b.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/7c.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/7d.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/7e.png?raw=true)
 
 ### output
+![output](https://github.com/VINUTHNA-2004/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/7f.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/7g.png?raw=true)
 
 
 
 
 ### Results 
 
+A program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
  
